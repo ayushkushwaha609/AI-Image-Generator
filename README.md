@@ -1,6 +1,6 @@
 
 # AI-Image-Generator
-A simple AI image generator built using  Stable Diffusion Model 1.6 for text-to-image Generation.
+A simple AI image generator built using  Stable Diffusion Model 1.5 for text-to-image Generation.
 
 Built using Reaact and Stable Diffusion API for text-to-speach available on Hugging Face
 <img width="946" alt="image" src="https://github.com/ayushkushwaha609/AI-Image-Generator/assets/73795130/ea8db364-3266-40f9-8a1b-e18d6ec30a16">
